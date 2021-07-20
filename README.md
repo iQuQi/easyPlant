@@ -1,4 +1,4 @@
-<h1 align="center"> 🌱바쁜 일상 속 잊지 않고 식물의 건강을 지켜주기 위한, EasyPlant🌱 </h1>
+<h1 align="center">🌱바쁜 일상 속에서 식물의 건강을 지켜주기 위한, easyPlant🌱 </h1>
 
 <h3 align="center">- 키우시는 식물이 너무 많아 관리가 어려우신 분<br>
 - 바쁜 일상 속 식물 키우는 과정들이 어렵고 어색하신 분<br>
@@ -12,8 +12,11 @@
 
 ## 🏞 앱 스크린샷
 
-<img src="https://user-images.githubusercontent.com/69742775/126285445-2b6bcff8-9eab-47fe-ae2b-e9cc90cd156d.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285441-6286c7d9-a008-4564-bbab-33840995d21e.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285436-a4b6c801-a8e9-410e-bafe-c1092d5074c6.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285432-757e00b4-f4d7-4bec-aa79-e5d0d7b24dbe.PNG"  width="190" height="390">
-<img src="https://user-images.githubusercontent.com/69742775/126285426-001e636c-92a0-4074-8a84-26bbcf04f361.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285392-c5de8b2f-ef17-4637-9169-2b03c10b2e99.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285382-94256f5d-2ee5-49c0-a7db-60af8c993e73.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285375-a406520c-7f80-4d70-b6e4-885944433e19.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285832-0bab0257-a451-4c04-907c-31b012a0a14c.PNG"  width="190" height="390">
+<img src="https://user-images.githubusercontent.com/69742775/126285445-2b6bcff8-9eab-47fe-ae2b-e9cc90cd156d.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285441-6286c7d9-a008-4564-bbab-33840995d21e.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285436-a4b6c801-a8e9-410e-bafe-c1092d5074c6.PNG"  width="190" height="390">
+
+<img src="https://user-images.githubusercontent.com/69742775/126285432-757e00b4-f4d7-4bec-aa79-e5d0d7b24dbe.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285426-001e636c-92a0-4074-8a84-26bbcf04f361.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285392-c5de8b2f-ef17-4637-9169-2b03c10b2e99.PNG"  width="190" height="390">
+
+<img src="https://user-images.githubusercontent.com/69742775/126285382-94256f5d-2ee5-49c0-a7db-60af8c993e73.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285375-a406520c-7f80-4d70-b6e4-885944433e19.PNG"  width="190" height="390"><img src="https://user-images.githubusercontent.com/69742775/126285832-0bab0257-a451-4c04-907c-31b012a0a14c.PNG"  width="190" height="390">
 
 <br>
 <br>
