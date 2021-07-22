@@ -10,6 +10,12 @@
 
 <br>
 
+## 💚 앱 스토어 링크
+
+https://apps.apple.com/app/id1576456882
+
+<br>
+
 ## 🏞 앱 스크린샷
 
 <img src="https://user-images.githubusercontent.com/69742775/126285445-2b6bcff8-9eab-47fe-ae2b-e9cc90cd156d.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285441-6286c7d9-a008-4564-bbab-33840995d21e.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285832-0bab0257-a451-4c04-907c-31b012a0a14c.PNG"  width="240" height="490">
