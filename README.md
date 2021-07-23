@@ -46,11 +46,10 @@ https://apps.apple.com/app/id1576456882
 <img src="https://img.shields.io/badge/swift-5.3-orange">
 <img src="https://img.shields.io/badge/Xcode-12.2-blue">
 <img src="https://img.shields.io/badge/CocoaPods-1.9.3-black">
-<img src="https://img.shields.io/badge/YPImagePicker-4.4.0-green">
-<img src="https://img.shields.io/badge/kingfisher-4.7-orange">
-<img src="https://img.shields.io/badge/lottie ios-3.1.9-blue">
+<img src="https://img.shields.io/badge/Charts-4.7-orange">
+<img src="https://img.shields.io/badge/Calendar-3.1.9-blue">
 <img src="https://img.shields.io/badge/firebase-7.1.0-black">
-<img src="https://img.shields.io/badge/bulletinboard-5.0.0-green">
+<img src="https://img.shields.io/badge/SwiftyJSON-5.0.0-green">
 </p>
 
 <br>
@@ -60,16 +59,15 @@ https://apps.apple.com/app/id1576456882
 
 | 기능 | 상세 기능 | 구현 여부 |
 | :---: | :--- | :---: |
-| 온보딩| 둘러보기 |⭕️|
-| 로그인 |  애플 로그인| ⭕️|
-| 회원가입 |   애플 회원가입| ⭕️|
-| 프로필 설정 |  유저 이미지 <br> 유저 닉네임 <br> 유저 채식타입 선택|⭕️ |
-| 마이페이지 | 유저의 채식 참여 횟수 <br> 게시글 보기<br> 게시글 신고 및 수정| ⭕️|
-| 홈 | | ⭕️ |
-| 레벨 | | ⭕️ |
-| 나의 식물 정보 | 전체 채식 타입<br>  내 채식 타입 |⭕️ |
-| 다이어리 |  이미지 총 3장 선택 가능<br> 글 최대 200자 작성  가능<br>| ⭕️|
-| 검색 기능 |  내 게시글 모아보기<br> 내 게시글 상세 및 수정/삭제<br> 프로필 수정<br> 로그아웃|⭕️ |
+| 온보딩| 앱 사용 가이드 제공 |⭕️|
+| 로그인과 회원가입 |  애플 및 파이어베이스 기반 일반 로그인과 회원가입| ⭕️|
+| 프로필 설정 | 마이페이지에서 본인의 프로필 수정 |⭕️ |
+| 마이페이지 | 사용자의 정보와 프로필사진 <br> 가이드를 확인 가능 <br> 로그아웃 | ⭕️|
+| 홈 | 캘린더를 통해 날짜별 물 줄 식물 확인 <br> 물뿌리개 기능을 통한 물줌 체크 <br> 레벨 상세 정보보기 | ⭕️ |
+| 레벨 | 일정 조건 만족 시 레벨이 올라가는 기능 | ⭕️ |
+| 나의 식물 정보 | 본인이 등록한 식물의 목록보기 <br> 개별 식물의 정보와 행복도 |⭕️ |
+| 다이어리 | 각 식물별로 다이어리 기록이 가능 | ⭕️|
+| 검색 기능 | 취향별로 나누어진 카테고리 별로 검색 가능 <br> 모든 데이터는 농사로에서 제공하는 오픈 API 제공 <br> 각 식물에 대한 양육 정보 제공 |⭕️ |
 
 
 <br>
