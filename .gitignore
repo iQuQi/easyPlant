@@ -2,8 +2,8 @@
 # https://www.toptal.com/developers/gitignore?templates=xcode에서 편집
 
 ##Ignore
-easyPlant_App/Pods
-easyPlant_App/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64
+easyPlant_App/Pods/*
+easyPlant_App/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64/*
 
 ### Xcode ###
 # Xcode
