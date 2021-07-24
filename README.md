@@ -43,14 +43,14 @@ https://apps.apple.com/app/id1576456882
 ## ⚙️ 개발환경 및 사용한 라이브러리
 
 <p>
-<img src="https://img.shields.io/badge/swift-5.3-orange">
-<img src="https://img.shields.io/badge/Xcode-12.2-blue">
-<img src="https://img.shields.io/badge/CocoaPods-1.9.3-black">
-<img src="https://img.shields.io/badge/Charts-4.7-orange">
-<img src="https://img.shields.io/badge/Calendar-3.1.9-blue">
-<img src="https://img.shields.io/badge/firebase-7.1.0-black">
-<img src="https://img.shields.io/badge/Alamofire-7.1.0-black">
-<img src="https://img.shields.io/badge/SwiftyJSON-5.0.0-green">
+<img src="https://img.shields.io/badge/Xcode-12.5.1-blue">
+<img src="https://img.shields.io/badge/Charts-3.6-orange">
+<img src="https://img.shields.io/badge/FSCalendar-2.8.2-black">
+<img src="https://img.shields.io/badge/Firebase/Auth-8.0.0-yellow">
+<img src="https://img.shields.io/badge/Firebase/Storage-8.0.0-blue">
+<img src="https://img.shields.io/badge/Alamofire-5.4.3-red">
+ <img src="https://img.shields.io/badge/SWXMLHash-5.0.2-pink">
+<img src="https://img.shields.io/badge/SwiftyJSON-5.0.1-green">
 </p>
 
 <br>
