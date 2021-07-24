@@ -49,6 +49,7 @@ https://apps.apple.com/app/id1576456882
 <img src="https://img.shields.io/badge/Charts-4.7-orange">
 <img src="https://img.shields.io/badge/Calendar-3.1.9-blue">
 <img src="https://img.shields.io/badge/firebase-7.1.0-black">
+<img src="https://img.shields.io/badge/Alamofire-7.1.0-black">
 <img src="https://img.shields.io/badge/SwiftyJSON-5.0.0-green">
 </p>
 
