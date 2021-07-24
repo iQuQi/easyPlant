@@ -5,6 +5,7 @@
 easyPlant_App/Pods
 easyPlant_App/build/Pods.build/Debug-iphonesimulator/Charts.build/Objects-normal/x86_64
 easyPlant_App/build/Debug-iphonesimulator/FSCalendar/FSCalendar.framework
+easyPlant_App/build/Pods.build/Debug-iphonesimulator
 
 ### Xcode ###
 # Xcode
