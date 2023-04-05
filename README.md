@@ -10,9 +10,10 @@
 
 <br>
 
-## 💚 앱 스토어 링크
+## 📌 [앱 스토어 바로가기](https://apps.apple.com/app/id1576456882)
+## 📌 [노션 바로가기](https://acidic-roundworm-3d2.notion.site/iOS-EasyPlant-87fba7dff408434594d7e56aab6ec069)
 
-https://apps.apple.com/app/id1576456882
+
 
 <br>
 
