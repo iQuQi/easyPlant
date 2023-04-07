@@ -233,7 +233,7 @@ class HomeViewController: UIViewController, UITableViewDelegate, UITableViewData
         ChartEntry.append(value_fill)
         ChartEntry.append(value_empty)
         
-        let chartDataSet = PieChartDataSet(entries: ChartEntry, label: nil)
+        let chartDataSet = PieChartDataSet(entries: ChartEntry, label: "")
         let chartData = PieChartData(dataSet: chartDataSet)
         
         var colors: [NSUIColor] = []
@@ -251,7 +251,7 @@ class HomeViewController: UIViewController, UITableViewDelegate, UITableViewData
         pieChart.transparentCircleRadiusPercent = 0
         pieChart.holeRadiusPercent = 50
         pieChart.legend.enabled = false
-        pieChart.chartDescription?.enabled = true
+        pieChart.chartDescription.enabled = true
         pieChart.drawHoleEnabled = false
         pieChart.drawCenterTextEnabled = true
         

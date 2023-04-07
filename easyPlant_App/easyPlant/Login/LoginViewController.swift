@@ -360,7 +360,7 @@ extension LoginViewController: ASAuthorizationControllerDelegate {
                         ChartEntry.append(value_fill)
                         ChartEntry.append(value_empty)
                         
-                        let chartDataSet = PieChartDataSet(entries: ChartEntry, label: nil)
+                        let chartDataSet = PieChartDataSet(entries: ChartEntry, label: "")
                         let chartData = PieChartData(dataSet: chartDataSet)
                         
                         var colors: [NSUIColor] = []
@@ -378,7 +378,7 @@ extension LoginViewController: ASAuthorizationControllerDelegate {
                         view.pieChart.transparentCircleRadiusPercent = 0
                         view.pieChart.holeRadiusPercent = 50
                         view.pieChart.legend.enabled = false
-                        view.pieChart.chartDescription?.enabled = true
+                        view.pieChart.chartDescription.enabled = true
                         view.pieChart.drawHoleEnabled = false
                         view.pieChart.drawCenterTextEnabled = true
                         view.pieChart.centerText = "\(value_fill.value)%"
