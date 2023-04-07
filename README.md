@@ -1,87 +1,54 @@
-<h1 align="center">🌱바쁜 일상 속에서 식물의 건강을 지켜주기 위한, easyPlant🌱 </h1>
 
-<h3 align="center">- 키우시는 식물이 너무 많아 관리가 어려우신 분<br>
-- 바쁜 일상 속 식물 키우는 과정들이 어렵고 어색하신 분<br>
-- 키우는 식물의 대한 정보를 찾아보는 것이 어렵고 귀찮으신 분<br><br>
-이제  <span style="color:#05d57d"> EasyPlant</span> 여러분 식물의 건강을 지켜드립니다! </h3>
 
-<h3 align="center">
-<img src="https://user-images.githubusercontent.com/69742775/126291235-89b2c587-46fe-4ad3-adac-15bc97bdfffc.png" width="250" height="250" style="box-shadow: 0px 0px 1px lightgray"> </h3>
-
-<br>
-
-## 📌 [앱 스토어 바로가기](https://apps.apple.com/app/id1576456882)
-## 📌 [노션 바로가기](https://acidic-roundworm-3d2.notion.site/iOS-EasyPlant-87fba7dff408434594d7e56aab6ec069)
+# EasyPlant 🌱
+바쁜 일상 속 잊지 않고 식물의 건강을 지켜주기 위한, 식물 돌보기 앱
 
 
 
-<br>
-
-## 🏞 앱 스크린샷
-
-<img src="https://user-images.githubusercontent.com/69742775/126285445-2b6bcff8-9eab-47fe-ae2b-e9cc90cd156d.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285441-6286c7d9-a008-4564-bbab-33840995d21e.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285832-0bab0257-a451-4c04-907c-31b012a0a14c.PNG"  width="240" height="490">
-
-<img src="https://user-images.githubusercontent.com/69742775/126285436-a4b6c801-a8e9-410e-bafe-c1092d5074c6.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285432-757e00b4-f4d7-4bec-aa79-e5d0d7b24dbe.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285426-001e636c-92a0-4074-8a84-26bbcf04f361.PNG"  width="240" height="490">
-
-<img src="https://user-images.githubusercontent.com/69742775/126285392-c5de8b2f-ef17-4637-9169-2b03c10b2e99.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285382-94256f5d-2ee5-49c0-a7db-60af8c993e73.PNG"  width="240" height="490"><img src="https://user-images.githubusercontent.com/69742775/126285375-a406520c-7f80-4d70-b6e4-885944433e19.PNG"  width="240" height="490">
-
-<br>
-<br>
-
-## 📷 작동 영상
-<span>
-검색화면 : 
-<img src="https://user-images.githubusercontent.com/69742775/126297573-7a3e5c5e-3410-42fa-aea9-68fe308f26e1.gif"  width="190" height="390"></span>
-<span>홈화면 : 
-<img src="https://user-images.githubusercontent.com/69742775/126297619-dcd28c26-147a-4248-848a-a8ed60326944.gif"  width="190" height="390"></span>
-<span>나의 식물 화면 : 
-<img src="https://user-images.githubusercontent.com/69742775/126297611-8c561ee1-ce57-4591-bacc-0c482fd30a9d.gif"  width="190" height="390"></span>
+### Introduction 👀
+- 많은 종류의 식물을 키우는 사람이나 식물을 키우는데 미숙한 경우가 있나요? EasyPlant가 여러분의 식물들을 지켜주겠습니다💚
+- 여러분에게 식물별로 물과 햇빛 알림을 받을 수 있도록 easyPlant가 알려주겠습니다
+- 무슨 식물을 키우는지 모르겠다구요? EasyPlant가 쉽게 한눈에 보이도록 알려줍니다!
 
 
- <br>
- <br>
+### 프레임워크 및 API 🐱
+<img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=iOS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Swift-F5CBA7?style=flat&logo=Swift&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/UIKit-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FireAuthentication-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Alamofire-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FSCalendar-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Charts-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/UserNotifications-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CryptoKit-AED581?style=flat&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PhotoKit-AED581?style=flat&logoColor=white"/></a>
  
-## ⚙️ 개발환경 및 사용한 라이브러리
+ ### 기능 소개 🙊
+#### 식물들에게 물 주는 날들을 보기 쉽게 정리해 드립니다. 🗒
+- 물을 주고 나면 물뿌리개를 눌러서 식물 행복도를 올려 보세요!
+  행복도는 물을 빠지지 않고 줄수록 높이 올라갑니다.
+- 식물들의 물 주는 날을 알람으로 받을 수 있어요!
 
-<p>
-<img src="https://img.shields.io/badge/Xcode-12.5.1-blue">
-<img src="https://img.shields.io/badge/Charts-3.6-orange">
-<img src="https://img.shields.io/badge/FSCalendar-2.8.2-black">
-<img src="https://img.shields.io/badge/Firebase/Auth-8.0.0-yellow">
-<img src="https://img.shields.io/badge/Firebase/Storage-8.0.0-blue">
-<img src="https://img.shields.io/badge/Alamofire-5.4.3-red">
- <img src="https://img.shields.io/badge/SWXMLHash-5.0.2-pink">
-<img src="https://img.shields.io/badge/SwiftyJSON-5.0.1-green">
-</p>
+#### 식물과 함께 성장하기 📈
+- 키우고 있는 식물과 함께 레벨을 올려봅시다.
+- 식물을 오래 행복하게 키워서 경험치를 쌓을 수 있어요!
 
-<br>
-<br>
+#### 식물 정보 검색 🔎
+- '농사로' 의 공공데이터를 사용하고 있어 취향별 검색으로 나에게 맞는 정보를 찾을 수 있습니다.
+- 다양한 식물의 정보를 쉽고 빠르게 획득해보세요!
 
-## 🎛 기능 소개
-
-| 기능 | 상세 기능 | 구현 여부 |
-| :---: | :--- | :---: |
-| 온보딩| 앱 사용 가이드 제공 |⭕️|
-| 로그인과 회원가입 |  애플 및 파이어베이스 기반 일반 로그인과 회원가입| ⭕️|
-| 프로필 설정 | 마이페이지에서 본인의 프로필 수정 |⭕️ |
-| 마이페이지 | 사용자의 정보와 프로필사진 <br> 가이드를 확인 가능 <br> 로그아웃 | ⭕️|
-| 홈 | 캘린더를 통해 날짜별 물 줄 식물 확인 <br> 물뿌리개 기능을 통한 물줌 체크 <br> 레벨 상세 정보보기 | ⭕️ |
-| 레벨 | 일정 조건 만족 시 레벨이 올라가는 기능 | ⭕️ |
-| 나의 식물 정보 | 본인이 등록한 식물의 목록보기 <br> 개별 식물의 정보와 행복도 |⭕️ |
-| 다이어리 | 각 식물별로 다이어리 기록이 가능 | ⭕️|
-| 검색 기능 | 취향별로 나누어진 카테고리 별로 검색 가능 <br> 모든 데이터는 농사로에서 제공하는 오픈 API 제공 <br> 각 식물에 대한 양육 정보 제공 |⭕️ |
+#### 반려식물 갤러리 📓
+- 반려식물들을 보기 쉽게 목록을 보여줍니다.
+- 식물들을 위한 다이어리를 작성해보세요!
+- 식물의 성장과정을 모아 볼 수 있습니다! 
 
 
-<br>
-<br>
-
-
-## 👩🏻‍💻 Team EasyPlant
-
-![IMG_0737](https://user-images.githubusercontent.com/69742775/126289847-d299aa78-519c-4757-874b-b6b0d58c0ba0.jpg)
-
-
-<br>
-<br>
-
-### Pods 파일이 제외되어 있기 때문에 실행을 위한 해당 파일들이 추가적으로 필요하신 분은 말씀해주세요
+### 팀소개 👩🏻‍💻
+	1. 한양대학교 컴퓨터소프트웨어학부 현수빈
+	2. 한양대학교 컴퓨터소프트웨어학부 김유진
+	3. 한양대학교 컴퓨터소프트웨어학부 차다윤
+	
+### 노션소개 페이지 👩🏻‍⚕️
+[프로젝트 노션 페이지가기](https://codershigh.notion.site/easyPlant-621c915b01b74b05add5a993b999a99e)
