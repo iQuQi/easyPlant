@@ -3,6 +3,9 @@
 # EasyPlant 🌱
 바쁜 일상 속 잊지 않고 식물의 건강을 지켜주기 위한, 식물 돌보기 앱
 
+<br> 
+
+### [노션소개 페이지](https://acidic-roundworm-3d2.notion.site/iOS-EasyPlant-87fba7dff408434594d7e56aab6ec069) 👩🏻‍⚕️
 
 
 ### Introduction 👀
@@ -50,5 +53,3 @@
 	2. 한양대학교 컴퓨터소프트웨어학부 김유진
 	3. 한양대학교 컴퓨터소프트웨어학부 차다윤
 	
-### 노션소개 페이지 👩🏻‍⚕️
-[프로젝트 노션 페이지가기](https://codershigh.notion.site/easyPlant-621c915b01b74b05add5a993b999a99e)
