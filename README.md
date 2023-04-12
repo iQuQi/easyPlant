@@ -5,8 +5,9 @@
 
 <br> 
 
-### [노션소개 페이지](https://acidic-roundworm-3d2.notion.site/iOS-EasyPlant-87fba7dff408434594d7e56aab6ec069) 👩🏻‍⚕️
+### 👩🏻‍⚕️ [노션소개 페이지](https://acidic-roundworm-3d2.notion.site/iOS-EasyPlant-87fba7dff408434594d7e56aab6ec069) 👩🏻‍⚕️
 
+<br>
 
 ### Introduction 👀
 - 많은 종류의 식물을 키우는 사람이나 식물을 키우는데 미숙한 경우가 있나요? EasyPlant가 여러분의 식물들을 지켜주겠습니다💚
