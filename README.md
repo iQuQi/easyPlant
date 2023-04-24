@@ -60,14 +60,14 @@
 
 ## 📱 스크린샷
 
-<img width="300" alt="e3" src="https://user-images.githubusercontent.com/69742775/234015028-8463cc19-6fa0-4e7e-96f4-9aff932d4405.png"><img width="300" alt="e4" src="https://user-images.githubusercontent.com/69742775/234015047-f0822548-166a-45f6-8c68-76e174f7c3e2.png"><img width="300" alt="e5" src="https://user-images.githubusercontent.com/69742775/234015069-88ffb687-6a8d-40b9-82cc-4cbc65379016.png">
+<img width="250" alt="e3" src="https://user-images.githubusercontent.com/69742775/234015028-8463cc19-6fa0-4e7e-96f4-9aff932d4405.png"><img width="250" alt="e4" src="https://user-images.githubusercontent.com/69742775/234015047-f0822548-166a-45f6-8c68-76e174f7c3e2.png"><img width="250" alt="e5" src="https://user-images.githubusercontent.com/69742775/234015069-88ffb687-6a8d-40b9-82cc-4cbc65379016.png">
 
-<img width="300" alt="e6" src="https://user-images.githubusercontent.com/69742775/234015092-f3a0d1a8-9625-44aa-bdf3-516e7f489a14.png"><img width="300" alt="e7" src="https://user-images.githubusercontent.com/69742775/234017018-4eb808f3-6aa9-41cc-8b51-3ec3998bb3f1.png"><img width="300" alt="e8" src="https://user-images.githubusercontent.com/69742775/234015099-94e2b977-049a-4ce9-bef3-ea2996043837.png">
+<img width="250" alt="e6" src="https://user-images.githubusercontent.com/69742775/234015092-f3a0d1a8-9625-44aa-bdf3-516e7f489a14.png"><img width="250" alt="e7" src="https://user-images.githubusercontent.com/69742775/234017018-4eb808f3-6aa9-41cc-8b51-3ec3998bb3f1.png"><img width="250" alt="e8" src="https://user-images.githubusercontent.com/69742775/234015099-94e2b977-049a-4ce9-bef3-ea2996043837.png">
 
-<img width="300" alt="e9" src="https://user-images.githubusercontent.com/69742775/234015117-30a79f62-935c-4439-861d-23ec84436bae.png"><img width="300" alt="e10" src="https://user-images.githubusercontent.com/69742775/234016740-88792d9d-9e0f-4398-b1ba-59db443a14de.png"><img width="300" alt="e11" src="https://user-images.githubusercontent.com/69742775/234015140-544079c4-3a8b-40ef-956b-ae34f30a09c8.png">
+<img width="250" alt="e9" src="https://user-images.githubusercontent.com/69742775/234015117-30a79f62-935c-4439-861d-23ec84436bae.png"><img width="250" alt="e10" src="https://user-images.githubusercontent.com/69742775/234016740-88792d9d-9e0f-4398-b1ba-59db443a14de.png"><img width="250" alt="e11" src="https://user-images.githubusercontent.com/69742775/234015140-544079c4-3a8b-40ef-956b-ae34f30a09c8.png">
 
 <br><br>
 
 # 👩🏻‍💻 팀원 소개
 
-![e12](https://user-images.githubusercontent.com/69742775/234015155-7dcefa67-a5a9-4575-9055-32c338d34e79.png)
+<img width="750" alt="e12" src="https://user-images.githubusercontent.com/69742775/234015155-7dcefa67-a5a9-4575-9055-32c338d34e79.png">
